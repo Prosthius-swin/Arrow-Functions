@@ -32,7 +32,7 @@ console.log(Math.pow(n1, n2));
 }
 raised();*/
 
-//Q5
+// Q5
 //Create a function to calculate the 
 //Fibonacci number of a specific term
 let fib = () => {
